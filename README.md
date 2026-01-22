@@ -3,4 +3,4 @@
 ![](https://komarev.com/ghpvc/?username=Ascyii)
 
 This github account is mainly used for exploring and forking.
-For some of my public projects head to [my gitlab](https://git.ascyii.de).
+For some of my public projects head to [gitea](https://git.ascyii.de/jonas) instance.
